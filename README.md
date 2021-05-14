@@ -1,4 +1,4 @@
-# Awesome-SCS
+
 # Awesome Smart Contracts Security [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 A curated list of awesome Smart contracts security references, guidance, tools, research and more.
