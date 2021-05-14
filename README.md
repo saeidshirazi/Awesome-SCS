@@ -185,7 +185,7 @@ A curated list of awesome Smart contracts security references, guidance, tools, 
 
 
 ### 2018 papers
-*Newly published papers (in this year) which are worth reading*
+*Published papers in 2018 which are worth reading*
 - **Securify: Practical Security Analysis of Smart Contracts** (2018), Petar Tsankov et al. [[pdf]](https://arxiv.org/pdf/1806.01143.pdf)
 - **Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contract Execution** (2018), Raymond Cheng et al. [[pdf]](https://arxiv.org/pdf/1804.05141.pdf)
 - **Smart Contracts: Security Patterns in the Ethereum Ecosystem and Solidity** (2018), Maximilian Wöhrer and Uwe Zdun. [[pdf]](http://eprints.cs.univie.ac.at/5433/7/sanerws18iwbosemain-id1-p-380f58e-35576-preprint.pdf)
@@ -237,6 +237,4 @@ A curated list of awesome Smart contracts security references, guidance, tools, 
 * Security and Communication Networks[[web]](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-0122)
 * Computer Fraud & Security[[web]](http://www.elsevierscitech.com/nl/cfs/home.asp )
 
-## Contributing
 
-We welcome contributions that help curate this awesome list. Please refer to the [contributing guidelines](CONTRIBUTING.md) when submitting PRs. Thanks!
