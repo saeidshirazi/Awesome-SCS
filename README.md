@@ -224,6 +224,18 @@ A curated list of awesome Smart contracts security references, guidance, tools, 
 
 * * * *
 
+### Security SCI(E) Journal list
+
+* IEEE Transactions on Information Forensics and Security [[web]](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
+* Computer & Security[[web]](http://www.elsevier.com/wps/find/journaldescription.cws_home/405877/description#description)
+* IET Information Security[[web]](http://www.ietdl.org/IET-IFS)
+* ACM Transactions on Information and System Security[[web]](http://tissec.acm.org/)
+* International Journal of Information Security[[web]](http://www.springerlink.com/content/107927/)
+* Security and Communication Networks[[web]](http://www.wiley.com/bw/journal.asp?ref=1939-0114)
+* IEEE Security & Privacy[[web]](	http://www.computer.org/portal/web/security/home)
+* IEEE Transactions on Dependable and Secure Computing [[web]](http://www.computer.org/tdsc/)
+* Security and Communication Networks[[web]](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-0122)
+* Computer Fraud & Security[[web]](http://www.elsevierscitech.com/nl/cfs/home.asp )
 
 ## Contributing
 
