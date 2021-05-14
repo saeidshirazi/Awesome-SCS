@@ -1,9 +1,8 @@
 # Awesome-SCS
 # Awesome Ethereum Security [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-A curated list of awesome Ethereum security references, guidance, tools, and more.
+A curated list of awesome Smart contracts security references, guidance, tools, research and more.
 
-Join Trail of Bits for a free Ethereum Office Hours session by [reserving a slot on Calendly](https://calendly.com/dan-trailofbits/ethereum-office-hours). An engineer from Trail of Bits will assist you in applying advanced security (tools)[#tools] and practices to your smart contract code.
 
 ## Contents
 
