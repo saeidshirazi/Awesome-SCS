@@ -4,7 +4,18 @@
 A curated list of awesome Smart contracts security references, guidance, tools, research and more.
 
 
-## Contents
+## Table Of Contents
+
+
+* [Tools](#security-analysis-tools)
+* [2020 Papers](#2020-papers) 
+* [2019 Papers](#2019-papers) 
+* [2018 Papers](#2018-papers) 
+* [2017 Papers](#2017-papers)
+* [2015 Papers](#2015-papers)
+* [Security SCI(E) Journal list](#security-sci(e)-journal-list)
+* [Links / Tutorials](#links--tutorials)
+* [References](#references)
 
 * [Learning](#learning)
   * [Security references](#security-references)
